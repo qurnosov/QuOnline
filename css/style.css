@@ -1,0 +1,19 @@
+h1 {
+  display: inline;
+}
+
+#status {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 100px;
+}
+
+.online {
+  background: #00C7B8;
+}
+
+.offline {
+  background: #A9A9A9;
+}
+/*# sourceMappingURL=style.css.map */
